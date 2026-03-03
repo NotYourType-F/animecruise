@@ -1,0 +1,23 @@
+{
+  "name": "AnimeCruise - Anime Streaming",
+  "short_name": "AnimeCruise",
+  "description": "Stream your favorite anime series and movies",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#6d28d9",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
